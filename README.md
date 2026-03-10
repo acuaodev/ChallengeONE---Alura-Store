@@ -85,7 +85,7 @@ Los datos provienen del repositorio oficial del challenge:
 https://github.com/alura-es-cursos/challenge1-data-science-latam
 ```
 
-Cada tienda dispone de su propio archivo CSV (`tienda_1.csv`, `tienda_2.csv`, `tienda_3.csv`, `tienda_4.csv`) que es cargado directamente desde GitHub usando `pd.read_csv(url)`.
+Cada tienda dispone de su propio archivo CSV que es cargado directamente desde GitHub usando `pd.read_csv(url)`.
 
 ---
 
